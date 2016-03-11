@@ -1,0 +1,26 @@
+.text_italic
+{
+  color: #545454;
+  font-family:  'Georgia Italic';
+  font-style: italic;
+  font-size: 0.9em;
+
+}
+
+
+.link_text
+{
+  color:#2b5e5e;
+}
+.text_inline
+{
+  display: inline-block;
+}
+
+.title2
+{
+
+  font-family: 'Interstate' ,'Arial';
+  font-size: 0.9em;
+  color: #545454;
+}

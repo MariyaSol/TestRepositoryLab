@@ -1,0 +1,161 @@
+.main_container
+{
+  border: 1px solid red;
+  background-image: url(../img/main_fon.png);
+height: auto;
+}
+.main_contenet_container
+{
+  margin: auto;
+  border: 1px solid red;
+  width: 80%;
+}
+
+.news,
+.logo,
+.search
+{
+  display: inline-block;
+  width: 32%;
+vertical-align: top;
+  border: 1px solid green;
+}
+hr
+{
+  display: inline-block;
+}
+menu
+{
+  background-image: url(../img/menu_backgraund.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  border: 1px solid green;
+
+
+}
+li{
+
+  display: inline-block;
+
+
+}
+
+
+
+
+.main_body_container
+{
+  border: 5px solid green;
+  width:95%;
+  margin:auto;
+  background-image: url(../img/white_back.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: auto;
+}
+.carusel_container{
+
+}
+.carusel
+{
+  width:90%;
+  margin: auto;
+  height:230px;
+  background-image: url(../img/carousel.gif);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+
+}
+.arrow_L
+{
+  float:left;
+  display: inline-block;
+
+}
+.arrow_R
+{
+  float:right;
+  display: inline-block;
+}
+
+.description_container
+{
+
+    height:auto;
+  width:90%;
+  margin: auto;
+}
+.description_leftside
+{
+  float:left;
+  width: 60%;
+  display: inline-block;
+border: 1px solid green;
+
+}
+.description_rightside
+{
+float:right;
+width: 30%;
+display: inline-block;
+border: 1px solid green;
+}
+
+.latest_news img
+{
+  display: inline-block;
+  border: 3px solid grey;
+  float: left;
+
+}
+.latest_news .description_news
+{
+  display: inline-block;
+  border: 3px solid blue;
+  float: right;
+  width: 40%;
+}
+.latest_news .news_item
+{
+  height: auto;
+  display:inline-block;;
+  border: 1px solid red;
+}
+.latest_videos
+{
+  border: 3px solid blue;
+  width: 100%;
+}
+.last_video
+{
+  float: left;
+    border: 1px solid blue;
+  width: 60%;
+}
+.more_videos
+{
+    border: 1px solid blue;
+  float: right;
+  width: 30%;
+}
+.video_container
+{
+  width:100%;
+  background-image: url(../img/chears_video.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height:230px;
+}
+
+
+.main_foot_container
+{
+  height:194px;
+  clear: both;
+  background-image: url(../img/foot.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width:95%;
+  margin: auto;
+}
